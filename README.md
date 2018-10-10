@@ -1,3 +1,3 @@
 # hello-world
 ABC of Github
-startinga journey to learn,improve and thrive
+starting a journey to learn,improve and thrive
